@@ -1,0 +1,16 @@
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.exe
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.deps.json
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.runtimeconfig.json
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.runtimeconfig.dev.json
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.dll
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\ref\SYNTAX AND SYNTAX SUGAR.dll
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\bin\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.pdb
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.csproj.AssemblyReference.cache
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.AssemblyInfoInputs.cache
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.AssemblyInfo.cs
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.csproj.CoreCompileInputs.cache
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.dll
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\ref\SYNTAX AND SYNTAX SUGAR.dll
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.pdb
+C:\Users\Farrah\source\repos\SYNTAX AND SYNTAX SUGAR\SYNTAX AND SYNTAX SUGAR\obj\Debug\net5.0\SYNTAX AND SYNTAX SUGAR.genruntimeconfig.cache
